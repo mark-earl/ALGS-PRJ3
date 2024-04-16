@@ -31,7 +31,7 @@ To use this project, you'll need the following prerequisites:
    jupyter notebook
    ```
 2. Navigate to the directory where you cloned or downloaded this repository.
-3. Open and run the `seam_carving.ipynb` notebook.
+3. Open and run the `main.ipynb` notebook.
 4. Follow the instructions within the notebook to load your image, specify the resizing parameters, and visualize the seam carving process.
 5. Experiment with different resizing options and observe the results interactively.
 
